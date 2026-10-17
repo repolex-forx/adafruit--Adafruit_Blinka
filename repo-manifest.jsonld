@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/adafruit/Adafruit_Blinka/commit/6021fc9ccf64473e8cca7cf329b38fd38f099ecb",
       "git:hexsha": "6021fc9ccf64473e8cca7cf329b38fd38f099ecb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/adafruit/Adafruit_Blinka/commit/09422b62c65b439c46f0f15178f541ea30e88423",

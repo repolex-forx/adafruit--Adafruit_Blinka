@@ -1,0 +1,11 @@
+{
+  "org": "adafruit",
+  "repo": "Adafruit_Blinka",
+  "versions": [
+    {
+      "commit": "6021fc9ccf64473e8cca7cf329b38fd38f099ecb",
+      "tag": "",
+      "parsed_at": "2026-10-18T00:01:02.584770+00:00"
+    }
+  ]
+}
